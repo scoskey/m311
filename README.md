@@ -3,4 +3,4 @@
 Welcome! Please visit the following course resources.
 
 * [syllabus](http://github.com/scoskey/m311/blob/master/syll.md)  
-* Homework (TBA)
+* [reading, group work, and homework](http://github.com/scoskey/m311/blob/master/hw.md)
