@@ -5,7 +5,7 @@
 Meeting times: T,Th from 12:00&ndash;1:15pm  
 Meeting place: MB 124  
 Textbook: Venema, *Foundations of geometry*, 2nd edition  
-Web site: `github.com/scoskey/m311`  
+Web site: `scoskey.github.io/m311`  
 My email: `scoskey@boisestate.edu`  
 My office: MB 237-A  
 Office hours: TBA
