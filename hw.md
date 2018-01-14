@@ -8,7 +8,7 @@ Week 1
 
 Week 2
 * Reading for Tuesday: §2.1, §2.2, §2.3, §2.4
-* Group work problems for Tuesday: 2.4.1, 2.4.2, 2.4.3, 2.4.6, 2.4.7
+* Group work problems for Tuesday: 2.4.1, 2.4.2, 2.4.3, 2.4.5, 2.4.7, 2.4.9
 * Reading for Thursday: catch up, §2.5
 * Group work problems for Thursday: 2.5.5, 2.5.6, 2.5.7, 2.5.10
 * Homework problems for next Tuesday: 2.4.10, 2.4.12, 2.4.13, 2.5.11, 2.5.16
