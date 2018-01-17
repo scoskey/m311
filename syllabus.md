@@ -8,7 +8,7 @@ Textbook: Venema, *Foundations of geometry*, 2nd edition
 Web site: `scoskey.github.io/m311`  
 My email: `scoskey@boisestate.edu`  
 My office: MB 237-A  
-Office hours: TBA
+Office hours: Monday 2&ndash;3pm, Thursday 2&ndash;3pm, and by appointment
 
 ## Course topics
 
