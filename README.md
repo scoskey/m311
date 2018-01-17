@@ -2,5 +2,5 @@
 
 Welcome! Please visit the following course resources.
 
-* [syllabus](syll.md)  
-* [assignment schedule](hw.md)
+* [syllabus](syllabus.md)  
+* [assignment schedule](homework.md)
