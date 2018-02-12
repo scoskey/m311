@@ -1,5 +1,18 @@
 # Math 311 Homework
 
+Week #8, 2/27 and 3/1
+
+* Midterm on Tuesday
+* Reading for Thursday: §4.3
+* Group work for Thursday: 4.3.1, 4.3.2, 4.3.6
+* Homework for next Tuesday: 4.2.2, 4.2.4, 4.3.3, 4.3.6, 4.3.8
+
+Week #7, 2/20 and 2/22
+
+* Reading for Tuesday: §4.1, 4.2
+* Group work for Tuesday: 4.1.1, 4.2.1, 4.2.2
+* Review on Thursday
+
 Week #6, 2/13 and 2/15
 
 * Reading for Tuesday: §3.6, 3.7
