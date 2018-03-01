@@ -1,5 +1,20 @@
 # Math 311 Homework
 
+## Week #10, 3/13 and 3/15
+
+* Reading for Tuesday: §4.8, 4.9
+* Group work for Tuesday: 4.8.1, 4.8.4, 4.8.5
+* Quiz on Thursday
+* Homework for next Tuesday: 4.8.2, 4.8.3, 4.8.5
+
+## Week #9, 3/6 and 3/8
+
+* Reading for Tuesday: §4.4, 4.5
+* Group work for Tuesday: 4.4.1, 4.4.2, 4.5.1
+* Reading for Thursday: §4.6, 4.7
+* Group work for Thursday: 4.6.1, 4.7.1, 4.7.2
+* Homework for next Tuesday: 4.4.3, 4.5.2, 4.6.9, 4.7.2, 4.7.6
+
 ## Week #8, 2/27 and 3/1
 
 * Midterm on Tuesday
@@ -17,7 +32,6 @@
 
 * Reading for Tuesday: §3.6, 3.7
 * Group work for Tuesday: 3.6.1, 3.7.1, 3.7.2
-* Reading for Thursday: -
 * Quiz on Thursday
 * Homework for next Tuesday: 3.6.2, 3.7.2
 
@@ -41,7 +55,6 @@
 
 * Reading for Tuesday: §2.6
 * Group work for Tuesday: §2.6, Theorems 2.6.3, 2.6.4, 2.6.5, 2.6.7 (exercises 2,3,4,6)
-* Reading for Thursday: -
 * Quiz on Thursday
 * Homework for next Tuesday: §2.6, Theorems 2.6.7, 2.6.8, 2.6.9 (exercises 6,7,8)
 
