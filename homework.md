@@ -12,8 +12,8 @@
 * Reading for Tuesday: §4.4, 4.5
 * Group work for Tuesday: 4.4.1, 4.4.2, 4.5.1
 * Reading for Thursday: §4.6, 4.7
-* Group work for Thursday: 4.6.1, 4.7.1, 4.7.2
-* Homework for next Tuesday: 4.4.3, 4.5.2, 4.6.9, 4.7.2, 4.7.6
+* Group work for Thursday: 4.6.1, 4.6.10 (explain, not formal proof), 4.7.6
+* Homework for next Tuesday: 4.4.3, 4.5.2, 4.6.9, 4.6.10(a)(b), 4.7.4
 
 ## Week #8, 2/27 and 3/1
 
