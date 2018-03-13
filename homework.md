@@ -1,5 +1,10 @@
 # Math 311 Homework
 
+## Week #11, 3/20 and 3/22
+
+* Reading for Tuesday: §5.1
+* Group work for Tuesday: ...
+
 ## Week #10, 3/13 and 3/15
 
 * Reading for Tuesday: §4.8, 4.9
