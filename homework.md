@@ -3,9 +3,9 @@
 ## Week #10, 3/13 and 3/15
 
 * Reading for Tuesday: §4.8, 4.9
-* Group work for Tuesday: 4.8.1, 4.8.4, 4.8.5
+* Group work for Tuesday: 4.8.1, 4.8.2, 4.8.3
 * Quiz on Thursday
-* Homework for next Tuesday: 4.8.2, 4.8.3, 4.8.5
+* Homework for next Tuesday: 4.8.3, 4.8.4, 4.8.6
 
 ## Week #9, 3/6 and 3/8
 
