@@ -2,8 +2,11 @@
 
 ## Week #11, 3/20 and 3/22
 
-* Reading for Tuesday: §5.1
-* Group work for Tuesday: ...
+* Reading for Tuesday: §5.1, 5.2
+* Group work for Tuesday: 5.1. ...
+* Reading for Thursday: §5.3
+* Group work for Thursday: ...
+* ...
 
 ## Week #10, 3/13 and 3/15
 
