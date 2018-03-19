@@ -1,12 +1,20 @@
 # Math 311 Homework
 
+## Week #12, 4/3 and 4/5
+
+* Reading for Tuesday: §5.4, §5.5
+* Group work for Tuesday: 5.4.1, 5.4.4, 5.5.1
+* Reading for Thursday: §5.6
+* Group work for Wednesday: Geogebra fun
+* Homework for next Tuesday: 5.4.2, 5.4.3, 5.5.2, 5.5.3
+
 ## Week #11, 3/20 and 3/22
 
 * Reading for Tuesday: §5.1, 5.2
-* Group work for Tuesday: 5.1. ...
+* Group work for Tuesday: 5.1.3, 5.1.5, 5.1.6
 * Reading for Thursday: §5.3
-* Group work for Thursday: ...
-* ...
+* Group work for Thursday: 5.3.1, 5.3.2, 5.3.3
+* Homework for after break: 5.1.6, 5.1.9, 5.1.10, 5.3.4
 
 ## Week #10, 3/13 and 3/15
 
