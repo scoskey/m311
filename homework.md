@@ -11,10 +11,10 @@
 ## Week #11, 3/20 and 3/22
 
 * Reading for Tuesday: §5.1, 5.2
-* Group work for Tuesday: 5.1.3, 5.1.5, 5.1.6
+* Group work for Tuesday: 5.1.2, 5.1.5
 * Reading for Thursday: §5.3
 * Group work for Thursday: 5.3.1, 5.3.2, 5.3.3
-* Homework for after break: 5.1.6, 5.1.9, 5.1.10, 5.3.4
+* Homework for after break: 5.1.3, 5.1.6, 5.1.9, 5.1.10, 5.3.4
 
 ## Week #10, 3/13 and 3/15
 
