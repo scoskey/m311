@@ -5,7 +5,7 @@
 * Reading for Tuesday: §5.4, §5.5
 * Group work for Tuesday: 5.4.1, 5.4.4, 5.5.1
 * Reading for Thursday: §5.6
-* Group work for Wednesday: Geogebra fun
+* Group work for Thursday: Geogebra fun
 * Homework for next Tuesday: 5.4.2, 5.4.3, 5.5.2, 5.5.3
 
 ## Week #11, 3/20 and 3/22
