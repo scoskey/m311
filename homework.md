@@ -1,5 +1,12 @@
 # Math 311 Homework
 
+## Week #13, 4/10 and 4/12
+
+* Reading for Tuesday: §12.2
+* Group work for Tuesday: Hyperbolic fun
+* Quiz on Thursday
+* Homework for next Tuesday: 12.2.1, 12.2.2
+
 ## Week #12, 4/3 and 4/5
 
 * Reading for Tuesday: §5.4, §5.5
