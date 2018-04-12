@@ -1,5 +1,15 @@
 # Math 311 Homework
 
+## Week #15, 4/24 and 4/26
+
+* Reading for Tuesday: §6.3
+* Review on Thursday
+
+## Week #14, 4/17 and 4/19
+
+* Reading for Tuesday: §6.1
+* Reading for Thursday: §6.2
+
 ## Week #13, 4/10 and 4/12
 
 * Reading for Tuesday: §12.2
@@ -64,7 +74,7 @@
 * Group work for Tuesday: 3.3.1, 3.4.1, 3.4.2
 * Reading for Thursday: §3.5
 * Group work for Thursday: 3.5.2, 3.5.3, 3.5.4
-* Homeworkfor next Tuesday: 3.3.2, 3.3.5, 3.4.2, 3.5.5, 3.5.6
+* Homework for next Tuesday: 3.3.2, 3.3.5, 3.4.2, 3.5.5, 3.5.6
 
 ## Week #4, 1/30 and 2/1
 
