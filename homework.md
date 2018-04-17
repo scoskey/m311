@@ -2,13 +2,17 @@
 
 ## Week #15, 4/24 and 4/26
 
-* Reading for Tuesday: §6.3
+* Reading for Tuesday: §6.3, §12.4
+* Group work for Tuesday: ...
 * Review on Thursday
 
 ## Week #14, 4/17 and 4/19
 
 * Reading for Tuesday: §6.1
-* Reading for Thursday: §6.2
+* Group work for Tuesday: 6.1.2, 6.1.3, 6.1.4
+* Reading for Thursday: §6.2, §6.9
+* Group work for Thursday: ...
+* Homework for next Tuesday: 6.1.4(a), 6.1.5, ...
 
 ## Week #13, 4/10 and 4/12
 
