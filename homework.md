@@ -12,7 +12,7 @@
 * Group work for Tuesday: 6.1.2, 6.1.3, 6.1.5
 * Reading for Thursday: §6.2, §6.3, §6.9
 * Group work for Thursday: 6.2.1, 6.2.2, 6.2.3
-* Homework for next Tuesday: 6.1.1, 6.1.4(a)(b), 6.2.1, 6.2.2
+* Homework for next Tuesday: 6.1.1, 6.1.4 (parts 1 and 2 only), 6.2.1, 6.2.2
 
 ## Week #13, 4/10 and 4/12
 
