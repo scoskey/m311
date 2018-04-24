@@ -2,8 +2,8 @@
 
 ## Week #15, 4/24 and 4/26
 
-* Reading for Tuesday: §11.2, §12.4
-* Group work for Tuesday: ...
+* Reading for Tuesday: §11.1–11.2, §12.4
+* Group work for Tuesday: 11.1.2, 11.2.2, 11.2.4(a)(b), 11.2.7
 * Review on Thursday
 
 ## Week #14, 4/17 and 4/19
